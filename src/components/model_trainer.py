@@ -110,6 +110,7 @@ class ModelTrainer:
             r2_square = r2_score(y_test, predicted)
             return r2_square
             
+            
 
 
 
